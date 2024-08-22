@@ -58,7 +58,7 @@ export const config = {
         'appium:appPackage': 'org.wikipedia.alpha',
         'appium:appActivity': 'org.wikipedia.main.MainActivity',
         'appium:fullReset': false,
-        'appium:platformVersion': '8.1',
+        'appium:platformVersion': '9',
         'appium:automationName': 'UiAutomator2',
         'appium:app': path.resolve(`./app/Wikipedia.apk`),
         "appium:unicodeKeyboard": true,
